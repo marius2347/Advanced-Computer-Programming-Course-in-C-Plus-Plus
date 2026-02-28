@@ -33,7 +33,7 @@ To compile and run the code in this repository, you will need a C++ compiler tha
 
 Clone the repository to your local machine:
 ```bash
-git clone [https://github.com/marius2347/Advanced-Computer-Programming-Course-in-C-Plus-Plus.git](https://github.com/marius2347/Advanced-Computer-Programming-Course-in-C-Plus-Plus.git)
+git clone https://github.com/marius2347/Advanced-Computer-Programming-Course-in-C-Plus-Plus.git
 ```
 
 Navigate to the project directory:
